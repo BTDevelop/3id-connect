@@ -44,10 +44,10 @@
     "@3id/ui-provider": "^0.3.0",
     "@3id/window-auth-provider": "^0.3.0",
     "@babel/runtime": "7.16.3",
-    "@ceramicnetwork/http-client": "^1.5.0",
+    "@ceramicnetwork/http-client": "^3.0.4",
     "errors-utils": "^0.1.0",
     "postmsg-rpc": "^2.4.0",
-    "rpc-utils": "^0.4.0",
+    "rpc-utils": "^0.6.1",
     "url-parse": "^1.4.7"
   },
   "publishConfig": {
